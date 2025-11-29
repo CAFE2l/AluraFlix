@@ -1,10 +1,11 @@
-import React from 'react'
-
+import React from 'react';
+import Menu from '../src/components/Menu/index';
 
 function App() {
   return (
     <div>
-       <h1>Hello, World!</h1>
+      <Menu/>
+    
     </div>
   );
 }
